@@ -41,7 +41,7 @@ python train_gan.py /path/to/save
 ```  
 (`/path/to/save` means where you want to save the model and generated images every epoch)  
 
-##Random generated images  
+## Random generated images  
 
 **epoch 0**  
 ![000.png](https://github.com/SeitaroShinagawa/DCGAN-chainer/blob/master/images/000.png "epoch 0")  
