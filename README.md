@@ -44,14 +44,18 @@ python train_gan.py /path/to/save
 ## Random generated images  
 
 **epoch 0**  
-![000.png](https://github.com/SeitaroShinagawa/DCGAN-chainer/blob/master/images/000.png "epoch 0")  
+![000.png](https://github.com/Paul0M/RPG_DCGAN-Chainer_new_version/tree/master/images/000.png "epoch 0")  
 
-**epoch 50**  
-![050.png](https://github.com/SeitaroShinagawa/DCGAN-chainer/blob/master/images/050.png "epoch 50")  
-
-**epoch 99**  
-![099.png](https://github.com/SeitaroShinagawa/DCGAN-chainer/blob/master/images/099.png "epoch 99")  
-
+**epoch 1**  
+![001.png](https://github.com/Paul0M/RPG_DCGAN-Chainer_new_version/tree/master/images/001.png "epoch 1")
+**epoch 100**  
+![100.png](https://github.com/Paul0M/RPG_DCGAN-Chainer_new_version/tree/master/images/100.png "epoch 100")
+**epoch 101**  
+![101.png](https://github.com/Paul0M/RPG_DCGAN-Chainer_new_version/tree/master/images/101.png "epoch 101")
+**epoch 198**  
+![198.png](https://github.com/Paul0M/RPG_DCGAN-Chainer_new_version/tree/master/images/198.png "epoch 198")
+**epoch 199**  
+![199.png](https://github.com/Paul0M/RPG_DCGAN-Chainer_new_version/tree/master/images/199.png "epoch 199")
 
 
 
