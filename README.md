@@ -42,20 +42,27 @@ python train_gan.py /path/to/save
 (`/path/to/save` means where you want to save the model and generated images every epoch)  
 
 ## Random generated images  
+**epoch0**
 
-**epoch 0**  
-![000.png](https://github.com/Paul0M/RPG_DCGAN-Chainer_new_version/tree/master/images/000.png "epoch 0")  
+![epoch0](https://github.com/Paul0M/RPG_DCGAN-Chainer_new_version/blob/master/images/000.png)
 
-**epoch 1**  
-![001.png](https://github.com/Paul0M/RPG_DCGAN-Chainer_new_version/tree/master/images/001.png "epoch 1")
-**epoch 100**  
-![100.png](https://github.com/Paul0M/RPG_DCGAN-Chainer_new_version/tree/master/images/100.png "epoch 100")
-**epoch 101**  
-![101.png](https://github.com/Paul0M/RPG_DCGAN-Chainer_new_version/tree/master/images/101.png "epoch 101")
-**epoch 198**  
-![198.png](https://github.com/Paul0M/RPG_DCGAN-Chainer_new_version/tree/master/images/198.png "epoch 198")
-**epoch 199**  
-![199.png](https://github.com/Paul0M/RPG_DCGAN-Chainer_new_version/tree/master/images/199.png "epoch 199")
+**epoch1**
 
+![epoch1](https://github.com/Paul0M/RPG_DCGAN-Chainer_new_version/blob/master/images/001.png)
 
+**epoch100**
+
+![epoch100](https://github.com/Paul0M/RPG_DCGAN-Chainer_new_version/blob/master/images/100.png)
+
+**epoch101**
+
+![epoch101](https://github.com/Paul0M/RPG_DCGAN-Chainer_new_version/blob/master/images/101.png)
+
+**epoch198**
+
+![epoch198](https://github.com/Paul0M/RPG_DCGAN-Chainer_new_version/blob/master/images/198.png)
+
+**epoch199**
+
+![epoch199](https://github.com/Paul0M/RPG_DCGAN-Chainer_new_version/blob/master/images/199.png)
 
